@@ -1,0 +1,38 @@
+OS and Environment
+.DS_Store
+Thumbs.db
+Qt/IDE Configuration Files
+*.user
+*.pro.user
+*.autosave
+*.bak
+qmltooling
+.pro.user.
+*.cbp
+*.vcproj
+*.vcxproj
+*.sln
+*.filters
+*.sdf
+CMake Build Directories and Files
+build/
+Build/
+*/build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+Compiled Binaries and Libraries
+*.exe
+*.dll
+*.so
+*.dylib
+Object and Debug Files
+*.obj
+*.o
+*.a
+*.pdb
+*.ilk
+Texture Files (Uncomment if you want to ignore texture.png)
+texture.png
